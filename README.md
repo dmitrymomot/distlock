@@ -10,6 +10,12 @@ Go module for distributed locking based on article [How to do distributed lockin
 - [ ] postgres driver
 - [ ] documentation
 
+## Alternatives
+
+- https://github.com/go-redsync/redsync Distributed locking via Redis
+
+> Don't afraid to add yours via pull request :)
+
 
 ---
 Licensed under [Apache License 2.0](https://github.com/dmitrymomot/distlock/blob/master/LICENSE)
