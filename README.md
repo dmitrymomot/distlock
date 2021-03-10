@@ -13,6 +13,7 @@ WIP: https://pkg.go.dev/github.com/dmitrymomot/distlock
 ## ToDo
 
 - [x] mutex
+- [ ] rw mutex
 - [x] in-memory storage driver
 - [ ] redis driver
 - [ ] postgres driver
