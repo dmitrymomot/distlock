@@ -1,0 +1,10 @@
+language: go
+
+go:
+  - v0.1.x
+  - v1.x
+  - master
+
+env:
+  global:
+    - GO111MODULE=on
